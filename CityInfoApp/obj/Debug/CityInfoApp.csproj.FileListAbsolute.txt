@@ -1,0 +1,6 @@
+E:\SEIP Training\HomePractice\CityInfoApp\CityInfoApp\bin\CityInfoApp.dll.config
+E:\SEIP Training\HomePractice\CityInfoApp\CityInfoApp\bin\CityInfoApp.dll
+E:\SEIP Training\HomePractice\CityInfoApp\CityInfoApp\bin\CityInfoApp.pdb
+E:\SEIP Training\HomePractice\CityInfoApp\CityInfoApp\obj\Debug\CityInfoApp.csprojResolveAssemblyReference.cache
+E:\SEIP Training\HomePractice\CityInfoApp\CityInfoApp\obj\Debug\CityInfoApp.dll
+E:\SEIP Training\HomePractice\CityInfoApp\CityInfoApp\obj\Debug\CityInfoApp.pdb

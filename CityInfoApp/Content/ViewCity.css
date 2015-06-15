@@ -1,0 +1,15 @@
+﻿body {
+}
+.viewCityContainer {
+    width: 960px;
+    margin: 0 auto;
+}
+.viewCityContainer h1 {
+    text-align: center;
+    background: blue;
+    font-size: 40px;
+}
+.viewCityGridView tr th{
+    border: 2px solid black;
+    
+}

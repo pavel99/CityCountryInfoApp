@@ -1,0 +1,73 @@
+﻿body {
+}
+.Wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+header {
+    width: 960px;
+    /*float: left;*/
+}
+header h1 {
+    font-size: 50px;
+}
+/*.logo {
+    width: 600px;
+    height: 100px;
+    
+    float: left;
+    
+}
+.banner {
+    width: 360px;
+    height: 100px;
+    /*background: green;*/
+    /*background: white;
+    float: left;**//
+    
+/*}*/
+nav {
+    width: 960px;
+    
+    
+    
+}
+nav ul {
+    
+    
+    
+}
+nav ul li {
+    display: inline;
+    
+    
+}
+nav ul li a {
+    width: 190px;
+    background: black;
+    display: inline-block;
+    float: left;
+    border: 1px solid black;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+
+    
+}
+nav ul li a:hover {
+    background: white;
+     color: black;
+
+    
+}
+
+.container {
+    width: 960px;
+    max-height: 1000px;
+    
+}
+footer {
+    width: 960px;
+    
+    background: black;
+}

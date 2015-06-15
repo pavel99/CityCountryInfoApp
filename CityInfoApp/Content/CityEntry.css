@@ -1,0 +1,20 @@
+﻿body {
+}
+.citycontainer {
+    
+    width: 860px;
+    margin: 0 auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.citycontainer h1 {
+    font-size: 40px;
+    text-align: center;
+    background: blue;
+}
+.cityGridViews th {
+    border: 2px solid black;
+}
+.cityGridViews tr td {
+    border: 2px solid black;
+}

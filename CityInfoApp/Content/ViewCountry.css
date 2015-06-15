@@ -1,0 +1,16 @@
+﻿body {
+}
+.viewCountryContainer {
+    width: 960px;
+    margin: 0 auto;
+}
+.viewCountryContainer h1 {
+    background: blue;
+    font-size: 40px;
+}
+/*fieldset {
+    background-color: grey;
+}*/
+.viewCountryGridView tr th{
+    border: 2px solid black;
+}
